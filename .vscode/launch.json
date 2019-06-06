@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "src.HelloWorld",
+            "projectName": "javaprojects-book_9dc643ec"
+        }
+    ]
+}
